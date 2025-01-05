@@ -1,0 +1,18 @@
+body {
+  background-color: #fafafa;
+  color: cornflowerblue;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: chartreuse;
+  width: 200px;
+  padding: 20px;
+  cursor: pointer;
+}
+
+div:hover {
+  background-color: yellowgreen;
+}
